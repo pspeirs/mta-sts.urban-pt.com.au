@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: mail.urban-pt.com.au
 mx: urban-pt.com.au
 mx: ws141.win.arvixe.com
