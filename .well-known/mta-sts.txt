@@ -1,4 +1,6 @@
 version: STSv1
 mode: testing
 mx: mail.urban-pt.com.au
+mx: urban-pt.com.au
+mx: ws141.win.arvixe.com
 max_age: 604800
