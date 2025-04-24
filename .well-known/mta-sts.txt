@@ -3,4 +3,4 @@ mode: none
 mx: mail.urban-pt.com.au
 mx: urban-pt.com.au
 mx: ws141.win.arvixe.com
-max_age: 3600
+max_age: 84600
